@@ -1,2 +1,5 @@
-# bttconfig
-bttconfig
+# BTTConfig
+## Global
+## Finder
+
+
